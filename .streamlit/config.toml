@@ -1,0 +1,11 @@
+# Tema global del dashboard (IHC: consistencia y estética minimalista)
+[theme]
+base = "light"
+primaryColor = "#0E7C7B"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F2F6F7"
+textColor = "#1A2B33"
+font = "sans serif"
+
+[client]
+showErrorDetails = true
